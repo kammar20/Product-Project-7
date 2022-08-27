@@ -2,7 +2,7 @@
 
 Hello,
 
-I'm `Ammar Azam Khan`. This is the 7th assignment in my `Full Stack Javascript Bootcamp`, where I developed this website. This website is not responsive.
+I'm `Ammar Azam Khan`. This is the 7th assignment in my `Full Stack Javascript Bootcamp`, where I developed this website. This website is responsive.
 
 The Home page contains:
 
@@ -15,8 +15,6 @@ The Home page contains:
 &emsp; &ensp; [![HTML5](./images/HTML%20badge.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](./images/CSS%20badge.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## 💻Check out the link below for a preview.
-
-&emsp; &ensp; `note` This site is not responsive.
 
 &emsp; &ensp; &ensp;[Live Preview](https://product-profile-page.netlify.app)
 
